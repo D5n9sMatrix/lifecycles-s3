@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/amazon.s3/lifecycles-s3/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/lifecycles-s3.dir/lifecycles-s3.cpp.o -c /home/denis/amazon.s3/lifecycles-s3/lifecycles-s3.cpp",
+  "file": "/home/denis/amazon.s3/lifecycles-s3/lifecycles-s3.cpp"
+}
+]

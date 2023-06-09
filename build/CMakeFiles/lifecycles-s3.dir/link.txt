@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblifecycles-s3.a CMakeFiles/lifecycles-s3.dir/lifecycles-s3.cpp.o
+/usr/bin/ranlib liblifecycles-s3.a
